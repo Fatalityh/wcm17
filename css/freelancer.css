@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
  */
 body {
-  font-family: 'Lato'; }
+  font-family: 'Indie Flower'; }
 
 h1,
 h2,
@@ -13,7 +13,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Montserrat'; }
+  font-family: 'Kalam'; }
 
 hr.star-light,
 hr.star-dark {
@@ -40,13 +40,14 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #18BC9C; }
+  background-color: #d46262; }
 
 hr.star-dark {
-  border-color: #2C3E50; }
+  border-color: #d46262;
+}
 
 hr.star-dark:after {
-  color: #2C3E50;
+  color: #d46262;
   background-color: white; }
 
 section {
